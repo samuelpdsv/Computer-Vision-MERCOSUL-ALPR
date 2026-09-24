@@ -1,0 +1,13 @@
+path: C:/Users/samue/Desktop/Reconhecimento_Placas/dataset
+train: train/images
+val: train/images
+
+nc: 1
+names: ['Placa_mercosul_carro']
+
+roboflow:
+  workspace: samuels-workspace-8un26
+  project: placas-dec-3-classes-mercosul-a440m
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/samuels-workspace-8un26/placas-dec-3-classes-mercosul-a440m/dataset/1
