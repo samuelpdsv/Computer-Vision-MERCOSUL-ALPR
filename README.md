@@ -1,0 +1,2 @@
+# Computer-Vision-MERCOSUL-ALPR
+Sistema de Reconhecimento Automático de Placas Mercosul usando YOLOv8 + Tesseract OCR. Detecta, recorta e reconhece caracteres de placas do padrão brasileiro (AAA-NNN-AA) com validação e correção de erros de leitura OCR. (iniciação cientifica - FAPEMA)
